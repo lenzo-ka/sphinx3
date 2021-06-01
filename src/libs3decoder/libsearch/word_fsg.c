@@ -150,8 +150,8 @@
 
 #include <s3types.h>
 #include <err.h>
-#include <strfuncs.h>
-#include <ckd_alloc.h>
+#include <sphinxbase/strfuncs.h>
+#include <sphinxbase/ckd_alloc.h>
 #include <dict.h>
 #include <logs3.h>
 #include <word_fsg.h>
