@@ -146,7 +146,7 @@ the Unix installation. However, there is no audio driver support in
 cygwin currently so one can only use the batch mode recognzier. 
 
 
-Acknowldegments
+Acknowledgements
 ^^^^^^^^^^^^^^^
 
 This work was built over a long years at CMU by most of the people in
@@ -159,7 +159,7 @@ Arthur Chan (archan@cs.cmu.edu)
 Evandro Gouvea (egouvea+@cs.cmu.edu)
 Ricky Houghton (ricky.houghton@cs.cmu.edu)
 David Huggins-Daines (dhuggins@cs.cmu.edu)
-Kevin Lenzo (lenzo@cs.cmu.edu)
+Kevin Lenzo (kevinlenzo@gmail.com)
 Ravi Mosur
 Rita Singh (rsingh+@cs.cmu.edu)
 Yitao Sun (yitao@cs.cmu.edu)
